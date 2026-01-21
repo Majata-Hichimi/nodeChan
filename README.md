@@ -1,14 +1,14 @@
-## nodeChan
+# nodeChan
 
 *nodeChan is a command-line interface (CLI) tool designed to streamline the creation of Node.js and TypeScript projects. It provides an interactive, guided setup experience that helps developers quickly scaffold a project with a consistent structure and preferred runtime environment.*
 
-# Overview
+## Overview
 
 The goal of nodeChan is to reduce repetitive setup tasks when starting new JavaScript or TypeScript projects. Instead of manually creating directories, configuring runtimes, and installing dependencies, developers can rely on an intuitive CLI workflow to get started efficiently.
 
 The tool is built with modern Node.js tooling and focuses on clarity, predictability, and extensibility.
 
-Features
+## Features
 
 Interactive CLI prompts for guided project setup
 
@@ -22,7 +22,7 @@ Clean cancellation handling to prevent partial setups
 
 Extensible architecture for adding future templates and features
 
-Technology Stack
+## Technology Stack
 
 Node.js — Core runtime
 
@@ -50,7 +50,7 @@ Gracefully exits with a completion message
 
 This approach ensures predictable execution order and a clean user experience.
 
-Design Philosophy
+## Design Philosophy
 
 Developer-first: Optimized for developers who frequently create new projects
 
@@ -60,7 +60,7 @@ Explicit control: Users choose language and runtime instead of relying on defaul
 
 Maintainable codebase: Clear async flow and modular prompt handling
 
-Current Status
+## Current Status
 
 This project is actively under development. Core CLI flow and user interaction are implemented, with future plans to expand project templates, dependency management, and runtime-specific configurations.
 
