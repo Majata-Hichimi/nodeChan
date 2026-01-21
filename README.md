@@ -76,7 +76,8 @@ Plugin or preset support
 
 Global installation support via npm
 
-Author
+## Author
 
 *Developed by Majata Hichimi*
+
 *January 2025*
